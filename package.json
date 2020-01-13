@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "tsc": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,8 @@
     "morgan": "^1.9.1",
     "node": "^13.6.0",
     "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
