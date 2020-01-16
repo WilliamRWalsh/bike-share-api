@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/WilliamRWalsh/bike-share-api#readme",
   "dependencies": {
-    "@types/express": "^4.17.2",
+    "@types/morgan": "^1.7.37",
+    "@types/node": "^13.1.6",
     "config": "^3.2.4",
     "debug": "^4.1.1",
     "express": "^4.17.1",
@@ -29,6 +30,8 @@
     "typescript": "^3.7.4"
   },
   "devDependencies": {
-    "jest": "^24.9.0"
+    "@types/express": "^4.17.2",
+    "jest": "^24.9.0",
+    "ts-node": "^8.6.2"
   }
 }
