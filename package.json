@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/WilliamRWalsh/bike-share-api#readme",
   "dependencies": {
+    "@types/mongoose": "^5.5.41",
     "config": "^3.2.4",
     "debug": "^4.1.1",
     "express": "^4.17.1",
     "joi": "^14.3.1",
+    "mongoose": "^5.8.9",
     "morgan": "^1.9.1",
     "node": "^13.6.0",
     "twilio": "^3.39.2",
