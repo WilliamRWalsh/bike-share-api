@@ -8,3 +8,5 @@ const User = mongoose.model('User', new mongoose.Schema({
         maxlength: 10,
     }
 }));
+
+exports.User = User;
