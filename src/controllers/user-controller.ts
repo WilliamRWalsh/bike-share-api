@@ -1,5 +1,6 @@
 module.exports = userTest;
 
-function userTest() {
-    console.log('okay')
-}
+router.get('/ok', (request, response) => {
+    userTest()
+    response.status(200).send();
+})
