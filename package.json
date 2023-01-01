@@ -20,7 +20,7 @@
   "homepage": "https://github.com/WilliamRWalsh/bike-share-api#readme",
   "dependencies": {
     "@types/mongoose": "^5.5.41",
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "debug": "^4.1.1",
     "express": "^4.17.1",
     "joi": "^14.3.1",
